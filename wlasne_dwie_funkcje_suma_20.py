@@ -1,3 +1,5 @@
+# inspirowane postem z FB zadanie porownania dwoch wartosci rozwizane za pomoca funkcji zamiast prostego while 
+
 def pobierz_wynik():
     podana=int(input('podaj wynik dzialania 5+15: '))
     return podana
