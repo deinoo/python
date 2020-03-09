@@ -1,1 +1,1 @@
-# Repo with progress of python assimilation xD ;)
+# Repo with progress of python assimilation ;)
