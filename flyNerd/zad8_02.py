@@ -1,3 +1,5 @@
+# Stwórz prostą grę zgadywankę. Komputer losuje wartość z przedziału od 1-30. Poproś użytkownika o zgadnięcie liczby. Program pyta użytkownika o podanie liczby tak długo, dopóki gracz nie zgadnie. https://www.flynerd.pl/2019/06/python-8-petla-while.html
+
 import random
 liczba = random.randint(0,30)
 podane = ''

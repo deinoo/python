@@ -1,3 +1,5 @@
+# Oblicz z pomocą pythona dzienne zapotrzebowanie kaloryczne https://www.flynerd.pl/2017/01/python-1-zabawy-w-konsoli.html
+
 plec = input('jestes (k)obieta czy (m)ezczyzna: ')
 print (plec)
 aktywnosc = input('Twoja aktywnosc to: \n-zero aktywnosci(a)\n-malo aktywnosci(b)\n-regularna aktywnosc(c)\n-duza aktywnosc(d)\n-extremanlna aktywnosc(e): ')

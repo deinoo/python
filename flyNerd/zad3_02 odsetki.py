@@ -1,3 +1,5 @@
+# Napisz skrypt, który, który obliczy stan konta za kilka lat z uwzlednieniem kapitalizaji miesiecznej https://www.flynerd.pl/2017/01/python-3-formatowanie-napisow.html
+
 stan = int(input('podaj aktualny stan konta: '))
 oprocentowanie = float(input('jakie jest oprocentowanie lokaty: '))
 czas = int(input('ile lat bedzie trwala lokata: '))
