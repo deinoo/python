@@ -28,6 +28,8 @@ digital_root(493193)
 => 1 + 1
 => 2'''
 
+#solution without recurrency
+
 
 def digital_root(n):
 	valist = list(str(n))
