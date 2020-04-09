@@ -28,7 +28,7 @@ digital_root(493193)
 => 1 + 1
 => 2'''
 
-#solution without recurrency
+#solution without recurrence
 
 
 def digital_root(n):
